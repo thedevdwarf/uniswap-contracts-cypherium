@@ -6,7 +6,7 @@ require('@nomiclabs/hardhat-ethers');
 
 // Change private keys accordingly - ONLY FOR DEMOSTRATION PURPOSES - PLEASE STORE PRIVATE KEYS IN A SAFE PLACE
 const privateKey1 =
-   '95d645c7e53fe94496901d8f3e77c0fc643ebd8f66c60b6d35b29228309526ab';
+   'your-private-key-here';
 const privateKey2 =
    'your-private-key-here';
 
