@@ -22,6 +22,14 @@ module.exports = {
          gasPrice: 1750809638,
          chainId: 16164,
       },
+      sepolia: {
+         url: "https://sepolia.infura.io/v3/6e20fc588ebf497b86cfc93f168a1c3d",
+         accounts: [privateKey1],
+       },
+       monad: {
+         url: "https://monad-testnet.g.alchemy.com/v2/d5IIV-v-i9mdG2RHyTtZa0DAm3YT-Cp5",
+         accounts: [privateKey1],
+       },
       dev: {
          url: 'http://127.0.0.1:8000',
          accounts: [privateKey1],
